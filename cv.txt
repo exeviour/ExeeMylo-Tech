@@ -1,0 +1,42 @@
+//sample Cv: create a perfect on
+
+
+
+[Exeviour Zezayi]
+
+[Borrowdale,Harare,10]
+[263776576655]
+[zezayiexeviour83@gmail.com]
+ [github.com/exeviour] | [exeviour.github.io]
+
+Professional Summary
+Experienced and detail-oriented programmer with [2] years of experience specializing in software development, problem-solving, and coding in [languages]. Proven track record of delivering high-quality code and driving innovation through agile methodologies. Adept at collaborating with teams to build scalable applications and systems. Passionate about continuous learning and staying up to date with the latest programming trends and technologies.
+
+Skills
+Programming Languages: [Java Html/CSS,Kotlin]
+Frameworks & Libraries: [Swing,Spring]
+Database Management: [MySQL, PostgreSQL]
+Version Control: [Git, GitHub,]
+Development Tools: [VS Code, IntelliJ, Eclipse, NetBeans]
+Web Technologies: [HTML, CSS, JavaScript,Daraja APIs, etc.]
+Methodologies: [Agile, Scrum, Test-Driven Development (TDD)]
+Operating Systems: [Linux, Windows, macOS]
+Other Skills: [Machine Learning, Graphics & Designs , Ui/UX Designs,Adobe Express.]
+Professional Experience
+
+
+
+
+Relevant Coursework: Data Structures, Algorithms, Software Engineering, Web Development, Databases.
+[Any honors or awards].
+Certifications
+Certified Python Developer – [Issuing Organization] — [Month/Year]
+AWS Certified Solutions Architect – [Issuing Organization] — [Month/Year]
+[Any other certifications relevant to programming]
+Projects
+Project Name
+[Month/Year] – [Month/Year]
+
+
+
+
